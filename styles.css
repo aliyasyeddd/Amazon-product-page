@@ -3,8 +3,16 @@ body {
     font-family: Arial, Helvetica, sans-serif
 }
 
+.container {
+    gap: 30px;
+}
+
+.book-genre {
+    gap: 50px;
+}
+
 .title {
-    font-weight: lighter;
+    font-weight: bold;
 }
 
 .main-img {
@@ -16,6 +24,20 @@ body {
     display: flex;
 }
 
+.ratings {
+    width: 110px;
+}
 
+.genre {
+    color: #565959;
+}
+
+a:link {
+    color: #007185;
+}
+
+.book-info {
+    text-align: start;
+}
 
 
