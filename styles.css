@@ -1,0 +1,21 @@
+body {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    width: 300px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.container {
+    display: flex;
+}
+
+
+
+
